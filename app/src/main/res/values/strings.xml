@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2.2Intent</string>
+    <string name="price">Car Price</string>
+    <string name="payment">Down Payment: </string>
+    <string name="period">Loan period: </string>
+    <string name="rate">Interest Rate(%): </string>
+    <string name="Calculate">Calculate</string>
+    <string name="month">Montly Repayment: </string>
+</resources>
